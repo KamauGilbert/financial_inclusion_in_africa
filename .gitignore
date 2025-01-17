@@ -3,3 +3,4 @@ Test.csv
 StarterNotebook.ipynb
 SampleSubmission.csv
 ensemble_model.joblib
+.env
