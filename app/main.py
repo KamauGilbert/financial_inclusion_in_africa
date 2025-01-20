@@ -10,6 +10,8 @@ model = joblib.load('ensemble_model2.joblib')
 # Dropdown options based on prior discussions
 COUNTRIES = ["Kenya", "Rwanda", "Tanzania", "Uganda"]
 LOCATION_TYPES = ["Urban", "Rural"]
+CELLPHONE_ACCESS = ["Yes", "No"]
+HOUSEHOLD_SIZE = ["1-2", "3-4", "5-6", "7+"]
 GENDERS = ["Male", "Female"]
 JOB_TYPES = ["Farmer", "Self-employed", "Formally employed", "Other"]
 
@@ -65,7 +67,7 @@ def home():
         result = "Has Bank Account" if prediction == 1 else "No Bank Account"
 
         return render_template("index.html", prediction=result, countries=COUNTRIES, location_types=LOCATION_TYPES,
-                               genders=GENDERS, job_types=JOB_TYPES)
+                               cellphone_access=CELLPHONE_ACCESS, genders=GENDERS, job_types=JOB_TYPES)
 
     return render_template("index.html", countries=COUNTRIES, location_types=LOCATION_TYPES,
                            genders=GENDERS, job_types=JOB_TYPES)
