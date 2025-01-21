@@ -2,5 +2,6 @@ Train.csv
 Test.csv
 StarterNotebook.ipynb
 SampleSubmission.csv
+VariableDefinitions.csv
 ensemble_model.joblib
 .env
