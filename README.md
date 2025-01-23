@@ -1,12 +1,12 @@
 ## Financial Inclusion in Africa: A Machine Learning Journey
 
-This project was part of a [Zindi competition](https://zindi.africa/competitions/financial-inclusion-in-africa), aimed at promoting financial inclusion in Africa. 
+This project was part of a [Zindi Knowledge competition](https://zindi.africa/competitions/financial-inclusion-in-africa), aimed at promoting financial inclusion in Africa. 
 
 ### Project Objective
 The primary goal of the competition was to build a machine learning model capable of predicting which individuals are most likely to have or use a bank account, using tabular data.
 
 ### Focus of My Work
-While contributing to the competition, my main objective was to learn and demonstrate how to deploy a machine learning model on Google Cloud Platform (GCP). This project became a comprehensive learning experience, encompassing:
+While contributing to the competition, my main objective was to learn and demonstrate how to deploy a machine learning model on Google Cloud Platform (GCP) and not competing for first place. You could however use this repo as a basis to start engaging in this particular project offered by Zindi. This project became a comprehensive learning experience, encompassing:
 
 - **Data Cleaning and Exploratory Data Analysis (EDA):** Understanding the dataset and preparing it for modeling.  
 - **Feature Engineering:** Creating meaningful features to enhance model performance.  
