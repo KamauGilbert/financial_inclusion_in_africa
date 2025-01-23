@@ -6,7 +6,7 @@ This project was part of a [Zindi Knowledge competition](https://zindi.africa/co
 The primary goal of the competition was to build a machine learning model capable of predicting which individuals are most likely to have or use a bank account, using tabular data.
 
 ### Focus of My Work
-While contributing to the competition, my main objective was to learn and demonstrate how to deploy a machine learning model on Google Cloud Platform (GCP) and not competing for first place. You could however use this repo as a basis to start engaging in this particular project offered by Zindi. This project became a comprehensive learning experience, encompassing:
+While participating in the competition, my primary objective was to focus on learning and demonstrating the deployment of a machine learning model on Google Cloud Platform (GCP), rather than competing for the top spot. That said, this repository can serve as a solid foundation if you’re interested in engaging with this Zindi project. Throughout this journey, the project turned into a comprehensive learning experience, encompassing:
 
 - **Data Cleaning and Exploratory Data Analysis (EDA):** Understanding the dataset and preparing it for modeling.  
 - **Feature Engineering:** Creating meaningful features to enhance model performance.  
