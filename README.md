@@ -15,6 +15,6 @@ While participating in the competition, my primary objective was to focus on lea
 - **Model Deployment:** Deploying the trained model on GCP for real-time usage.
 
 ### Learn More
-I’ve documented the entire process in a detailed article, walking you step by step through every phase of the project. From the initial data preparation to deploying the model, this guide provides valuable insights and practical advice.
+I’ve documented the entire process in this [article](https://dev.to/kamaugilbert/financial-inclusion-in-africa-a-zindi-project-c4a), walking you step by step through every phase of the project. From the initial data preparation to deploying the model, this guide provides valuable insights and practical advice.
 
 Feel free to explore the [Zindi competition page](https://zindi.africa/competitions/financial-inclusion-in-africa) for more details about the project, and stay tuned for the link to my article!
